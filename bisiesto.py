@@ -13,7 +13,7 @@ Determinar si un año es bisiesto o no.
 # Entradas
 año= int(input("Introduzca un año: "))
 
-# Proceso 
+# Proceso y Salidas
 if año % 4 != 0:
     print(año, "no es un año bisiesto")
 else:
